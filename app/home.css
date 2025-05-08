@@ -65,3 +65,7 @@ input {
   background-color: black;
   color: white;
 }
+
+.input-error {
+  border: 2px solid red;
+}
